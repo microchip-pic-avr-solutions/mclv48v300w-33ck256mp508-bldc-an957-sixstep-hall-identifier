@@ -4,7 +4,7 @@
     <img alt="Microchip Logo." src="images/microchip_logo_black_red.png">
 </picture> 
 
-## %repoDescritpion%
+## mclv48v300w 33ck256mp508 bldc an957 sixstep hall identifier
 
 Board Image if any.
 
